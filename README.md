@@ -1,7 +1,7 @@
 # IoT-Relay_Researching
 ## 《关于物联网智能家居的研究与实践》研究性学习成果有关文件
 文件列表  
-* （folder）研究性学习报告LaTex源代码：如其名
+* （folder）研究性学习报告LaTeX源代码：如其名
 * LICENSE：开源许可（本课题研究成果之代码与原理图等均遵照 GNU General Public License v3.0 开源）
 * README.md：本Github repo介绍文件
 * circuit.jpg：完整继电器模块电路图以及与微控单元连接图
